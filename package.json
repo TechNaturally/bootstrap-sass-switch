@@ -1,6 +1,6 @@
 {
-  "name": "bootstrap-switch",
-  "description": "Turn checkboxes and radio buttons in toggle switches.",
+  "name": "bootstrap-sass-switch",
+  "description": "Turn checkboxes and radio buttons into toggle switches.",
   "version": "3.3.2",
   "keywords": [
     "bootstrap",
@@ -25,15 +25,15 @@
       "url": "http://www.bdmdesign.org"
     }
   ],
-  "main": "dist/js/bootstrap-switch.js",
+  "main": "dist/js/bootstrap-sass-switch.js",
   "dependencies": {
     "jquery": ">=1.9.0"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/nostalgiaz/bootstrap-switch.git"
+    "url": "git://github.com/TechNaturally/bootstrap-sass-switch.git"
   },
-  "bugs": "https://github.com/nostalgiaz/bootstrap-switch/issues",
+  "bugs": "https://github.com/TechNaturally/bootstrap-sass-switch/issues",
   "license": "Apache Version 2",
   "readmeFilename": "README.md",
   "devDependencies": {
@@ -62,7 +62,7 @@
     "build": "gulp dist",
     "test": "gulp test"
   },
-  "npmName": "bootstrap-switch",
+  "npmName": "bootstrap-sass-switch",
   "npmFileMap": [
     {
       "basePath": "/dist/",

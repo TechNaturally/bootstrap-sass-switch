@@ -1,6 +1,6 @@
 {
-  "name": "bootstrap-switch",
-  "description": "Turn checkboxes and radio buttons in toggle switches.",
+  "name": "bootstrap-sass-switch",
+  "description": "Turn checkboxes and radio buttons into toggle switches.",
   "version": "3.3.2",
   "main": [
     "./dist/js/bootstrap-switch.js",
@@ -19,11 +19,11 @@
     "package.json"
   ],
   "dependencies": {
-    "bootstrap": ">=2.3.2",
+    "bootstrap-sass": ">=2.3.2",
     "jquery": ">=1.9.0"
   },
   "devDependencies": {
     "jquery": "~2.1",
-    "bootstrap": "~3.3"
+    "bootstrap-sass": "~3.3"
   }
 }
